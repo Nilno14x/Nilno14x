@@ -2,7 +2,7 @@
 <div align="center"><img src="https://github.com/Nilno14x/Nilno14x/blob/main/Code_Banner.jpg"></div>
 <h3 align="center">A dedicated data science student from India, driven by the power of data to reveal meaningful insights.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/Nilno14x/blob/main/code_gif.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
 
