@@ -30,7 +30,7 @@
 <hr/>
 
 <div align=center>
-<h2 align="center"> 🌐🤝 Connect with me 🌐🤝</h2>
+<h2 align="center"> 🌐🤝 Connect with me 🤝🌐</h2>
 <a href="https://twitter.com/navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navanil2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/navanil-ghosh-11ab43217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navanil-ghosh-11ab43217" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navanil2001" height="30" width="40" /></a>
