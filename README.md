@@ -18,6 +18,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing](https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing)
 
+<br/><br/>
+<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navanil2001" height="30" width="40" /></a>
@@ -40,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img  width=390 height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
+  <img  width=395 height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
   <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api?username=nilno14x&show_icons=true&locale=en" alt="nilno14x" />
   <br/>
   <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
@@ -49,6 +52,6 @@
 <hr/>
 
 <div align="center">
-   ### 🔝 Top Contributed Repo 🔝
-  ![](https://github-contributor-stats.vercel.app/api?username=nilno14x&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo 🔝
+![](https://github-contributor-stats.vercel.app/api?username=nilno14x&limit=5&theme=flat&combine_all_yearly_contributions=true)
 </div>
