@@ -20,16 +20,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing](https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing)
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <hr/>
 
 <div align=center>
 <h2 align="left"> 🌐🤝 Connect with me 🌐🤝</h2>
-<p align="left">
 <a href="https://twitter.com/navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navanil2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/navanil-ghosh-11ab43217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navanil-ghosh-11ab43217" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navanil2001" height="30" width="40" /></a>
-</p>
 </div>
 
 <br/>
