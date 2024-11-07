@@ -12,7 +12,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
+<img align="right" alt="Coding" width="370" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
 
 - 💬 Ask me about **My journey of learning from code (and bugs)!**
 
@@ -23,12 +23,14 @@
 <br/><br/><br/><br/>
 <hr/>
 
-<h3 align="left">Connect with me:</h3>
+<div align=center>
+<h2 align="left"> 🌐🤝 Connect with me 🌐🤝</h2>
 <p align="left">
 <a href="https://twitter.com/navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navanil2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/navanil-ghosh-11ab43217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navanil-ghosh-11ab43217" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navanil2001" height="30" width="40" /></a>
 </p>
+</div>
 
 <br/>
 <hr/>
@@ -46,13 +48,14 @@
 <div align=center>
   <img  width=395 height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
   <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api?username=nilno14x&show_icons=true&locale=en" alt="nilno14x" />
-  <br/>
   <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
 </div>
 
 <hr/>
 
+<div align=center>
 <h2 align="center">### 🔝 Top Contributed Repo 🔝</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=nilno14x&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+</div>
