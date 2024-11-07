@@ -2,14 +2,13 @@
 <div align="center"><img src="https://github.com/Nilno14x/Nilno14x/blob/main/Code_Banner.jpg"></div>
 <h3 align="center">A dedicated data science student from India, driven by the power of data to reveal meaningful insights.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilno14x" alt="nilno14x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/navanil2001" target="blank"><img src="https://img.shields.io/twitter/follow/navanil2001?logo=twitter&style=for-the-badge" alt="navanil2001" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
 
 - 💬 Ask me about **My journey of learning from code (and bugs)!**
 
