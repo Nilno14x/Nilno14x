@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/navanil2001" target="blank"><img src="https://img.shields.io/twitter/follow/navanil2001?logo=twitter&style=for-the-badge" alt="navanil2001" /></a> </p>
 
+<br/>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
 
 - 💬 Ask me about **My journey of learning from code (and bugs)!**
@@ -23,8 +25,9 @@
 <a href="https://www.hackerearth.com/@navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navanil2001" height="30" width="40" /></a>
 </p>
 
- <hr/>
-
+<br/>
+<br/>
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -37,15 +40,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilno14x&show_icons=true&locale=en" alt="nilno14x" />
+  <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=nilno14x&show_icons=true&locale=en" alt="nilno14x" />
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
+  <img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
 </div>
 
 <hr/>
 
-<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nilno14x&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<div align="center">
+   ### 🔝 Top Contributed Repo 🔝
+  ![](https://github-contributor-stats.vercel.app/api?username=nilno14x&limit=5&theme=flat&combine_all_yearly_contributions=true)
+</div>
