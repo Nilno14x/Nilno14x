@@ -40,10 +40,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
+  <img  width=350 height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
   <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api?username=nilno14x&show_icons=true&locale=en" alt="nilno14x" />
   <br/>
-  <img  width=350 height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=nilno14x&" alt="nilno14x" />
+  <img  width=390 height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilno14x&show_icons=true&locale=en&layout=compact" alt="nilno14x" />
 </div>
 
 <hr/>
