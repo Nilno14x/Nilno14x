@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
+
+
 <!--<h1 align="center">Hello Everyone 👋, I'm Navanil Ghosh 👋</h1>-->
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=4000&pause=1000&color=164DF7&center=true&vCenter=true&random=true&width=500&height=70&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Navanil+Ghosh+%F0%9F%91%8B" alt="Typing SVG" /></a>
@@ -6,7 +9,6 @@
 <div align="center"><img src="https://github.com/Nilno14x/Nilno14x/blob/main/Code_Banner.jpg"></div>
 <h3 align="center">A dedicated data science student from India, driven by the power of data to reveal meaningful insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
 
 <h1 align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilno14x" alt="nilno14x" /></a>
