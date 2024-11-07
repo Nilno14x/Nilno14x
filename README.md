@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/navanil2001" target="blank"><img src="https://img.shields.io/twitter/follow/navanil2001?logo=twitter&style=for-the-badge" alt="navanil2001" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
 
 - 💬 Ask me about **My journey of learning from code (and bugs)!**
 
