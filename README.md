@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hello Everyone 👋, I'm Navanil Ghosh 👋</h1>-->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=4000&pause=1000&color=164DF7&center=true&vCenter=true&random=true&width=500&height=70&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Navanil+Ghosh+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&pause=1000&color=164DF7&center=true&vCenter=true&random=true&width=500&height=70&lines=Hello+Everyone+%F0%9F%91%8B%2C+I'm+Navanil+Ghosh+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center"><img src="https://github.com/Nilno14x/Nilno14x/blob/main/Code_Banner.jpg"></div>
