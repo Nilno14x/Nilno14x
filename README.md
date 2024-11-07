@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilno14x&label=Profile%20views&color=0e75b6&style=flat" alt="nilno14x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilno14x" alt="nilno14x" /></a> </p>
+<h1 align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilno14x" alt="nilno14x" /></a>
+</h1>
 
 <p align="left"> <a href="https://twitter.com/navanil2001" target="blank"><img src="https://img.shields.io/twitter/follow/navanil2001?logo=twitter&style=for-the-badge" alt="navanil2001" /></a> </p>
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/Nilno14x/nilno14x/blob/main/code_gif.gif">
 
 - 💬 Ask me about **My journey of learning from code (and bugs)!**
 
@@ -18,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing](https://drive.google.com/file/d/1CtpXlRu_4Dc5cpPSbHK3EZzab1dotL_t/view?usp=sharing)
 
-<br/><br/>
+<br/><br/><br/><br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +30,6 @@
 <a href="https://www.hackerearth.com/@navanil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navanil2001" height="30" width="40" /></a>
 </p>
 
-<br/>
 <br/>
 <hr/>
 
